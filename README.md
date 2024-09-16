@@ -1,9 +1,8 @@
-# Implementing a Simple AI Agent with LlamaIndex
-
-**Done as part of Encode_AI-and-GPT-Bootcamp-Q3-2024**
+# Implementing Simple & Structured AI Agents with LlamaIndex
 
 ## Instructions / README
 * [Lesson-18 / exercises / 00-Simple-AI-Agent-With-LlamaIndex.md](https://github.com/Encode-Club-AI-Bootcamp/Generative-AI-Applications/tree/main/Lesson-18/exercises/00-Simple-AI-Agent-With-LlamaIndex.md)
+* [Lesson-18 / exercises / 01-Structured-Planning-AI-Agent.md](https://github.com/Encode-Club-AI-Bootcamp/Generative-AI-Applications/tree/main/Lesson-18/exercises/01-Structured-Planning-AI-Agent.md)
 
 ## Setup
 
@@ -25,4 +24,7 @@ For example, on windows, point to your `venv` and then run your file:
 ```
 
 ## Resources
+
+**Done as part of Encode_AI-and-GPT-Bootcamp-Q3-2024**
+
 * [GitHub Repo - Encode-Club-AI-Bootcamp / Generative-AI-Applications](https://github.com/Encode-Club-AI-Bootcamp/Generative-AI-Applications)
