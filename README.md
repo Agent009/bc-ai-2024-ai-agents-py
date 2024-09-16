@@ -1,5 +1,6 @@
 # Encode_AI-and-GPT-Bootcamp-Q3-2024
 
+**Implementing a Simple AI Agent with LlamaIndex**
 
 ## Instructions / README
 * [Lesson-18 / exercises / 00-Simple-AI-Agent-With-LlamaIndex.md](https://github.com/Encode-Club-AI-Bootcamp/Generative-AI-Applications/tree/main/Lesson-18/exercises/00-Simple-AI-Agent-With-LlamaIndex.md)
