@@ -3,6 +3,7 @@
 ## Instructions / README
 * [Lesson-18 / exercises / 00-Simple-AI-Agent-With-LlamaIndex.md](https://github.com/Encode-Club-AI-Bootcamp/Generative-AI-Applications/tree/main/Lesson-18/exercises/00-Simple-AI-Agent-With-LlamaIndex.md)
 * [Lesson-18 / exercises / 01-Structured-Planning-AI-Agent.md](https://github.com/Encode-Club-AI-Bootcamp/Generative-AI-Applications/tree/main/Lesson-18/exercises/01-Structured-Planning-AI-Agent.md)
+* [Lesson-18 / exercises / 02-Agentic-RAG.md](https://github.com/Encode-Club-AI-Bootcamp/Generative-AI-Applications/tree/main/Lesson-18/exercises/02-Agentic-RAG.md)
 
 ## Setup
 
