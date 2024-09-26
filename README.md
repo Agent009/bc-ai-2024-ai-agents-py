@@ -1,4 +1,7 @@
-# Implementing Simple & Structured AI Agents with LlamaIndex
+# Simple & Structured AI Agents & Agentic RAG with LlamaIndex
+
+* Structured Planning AI Agents implementation (agent tools, worker agents)
+* Implementing an **Agentic RAG** with LlamaIndex (vectore store, query engine, agent tools)
 
 ## Instructions / README
 * [Lesson-18 / exercises / 00-Simple-AI-Agent-With-LlamaIndex.md](https://github.com/Encode-Club-AI-Bootcamp/Generative-AI-Applications/tree/main/Lesson-18/exercises/00-Simple-AI-Agent-With-LlamaIndex.md)
